@@ -2,7 +2,7 @@
 
 > **A comprehensive showcase of enterprise-grade AWS cloud security projects demonstrating hands-on expertise in identity management, network security, containerization, and serverless architectures.**
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-View%20Portfolio-blue?style=for-the-badge&logo=github-pages)](https://your-username.github.io/aws-cloud-portfolio)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-View%20Portfolio-blue?style=for-the-badge&logo=github-pages)](https://awsprojects.tyrone.studio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/tyrone-joel)
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:tyrone.joell@outlook.com)
 
